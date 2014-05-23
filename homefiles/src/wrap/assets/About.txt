@@ -1,0 +1,50 @@
+
+,,                                     :,                                       
+ ~=======,        ,:                   ,======:        ,           :,           
+   ==:,~==,        ==        ~=~,       ==,,,::~~      ~=,        ==,    ~~     
+   ==~~==:,~=====~ =======  ======      ==,    ======~ =============  ======    
+ :========~, ~==== ==~  ==,~==: ==~     ======:==,  == ===  :==, ,== ==~, ==,   
+   ==,  ==:==~::== ==~  ==,~==:::::     ==,   ~==   ==,==~  :==  :== ==~::::,   
+ ,~=======,======= ==~  ==,:=======~,   ==,    ======: ==~   ======= ~=======:  
+,:~::,,,,  :~::,=~ ==:  ==,  ~::::,    ,=~,     ~~::~, ~=:    ,::~==  ,:~~~,    
+                 ~~:,    :,            ~~              ~:  ,~~~~===:            
+                                                              ::::,             
+                                                                            
+  
+An Open-style Multiplayer RPG coded in Java with Slick2D utilizing OpenGL 1.1.
+
+This project uses assets from the following artists (who do NOT endorse Baneforge or any part of this game/project):
+
+ -Everyone at www.opengameart.org
+
+ Music and SFX: Kyle Peterson
+
+ Farm Tiles, Basic Terrain: Daniel Eddeland
+
+ NPC Models:  Stephen Challener, Matthew Nash, Tunicate, Ben "Cookiez" Potter ( http://cookiez999.deviantart.com/), Charles Gabriel
+ 
+ More NPC Models: RedShrike of OpenGameArt.org
+ 
+ Stairs: Clint Bellanger of OpenGameArt.org
+
+ Cliffs and Objects: "2D Circle Graphic" art by Daniel Cook (Lostgarden.com)
+
+ Ability icons: http://lorcblog.blogspot.com.au/ , Lorc, http://game-icons.net, 
+
+ Item Icons: http://ails.deviantart.com, Ails
+
+ Military Icons: http://angrymeteor.com
+
+ Hero Models and Equipment: Johannes Sjolund
+ 
+ Projectiles, stairs, 3D zombie: Clint Bellanger of OpenGameArt.org
+
+ Menu Backgrounds: Jordan Trudgett
+ 
+ Flare Portraits: Justin Nichol
+
+ Archer and Necromancer on Main Screen: user kirill777 on www.opengameart.org
+
+ Weapon item icons: user Scrittl on www.opengameart.org
+
+ Weapons and Mechs: Skorpio and his Sprite Pack 
